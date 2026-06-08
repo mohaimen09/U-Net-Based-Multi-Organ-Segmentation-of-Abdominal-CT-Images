@@ -27,7 +27,7 @@ Example local structure:
 
 ## Running on Kaggle
 If you want to run without changing paths, run the original notebook on Kaggle:
-https://www.kaggle.com/code/samirmahmud28/u-net-based-multi-organ-segmentation-of-abdominal
+https://www.kaggle.com/code/mohaimenalmamun/u-net-based-multi-organ-segmentation-of-ct-images
 
 ## Running Locally
 These notebooks were originally written for Kaggle and may include Kaggle-specific paths (e.g., `/kaggle/input/...`).
@@ -73,6 +73,6 @@ Open notebooks from `notebooks/`.
 ## Links
 
 Kaggle (main project):
-https://www.kaggle.com/code/samirmahmud28/u-net-based-multi-organ-segmentation-of-abdominal
+https://www.kaggle.com/code/mohaimenalmamun/u-net-based-multi-organ-segmentation-of-ct-images
 
 
